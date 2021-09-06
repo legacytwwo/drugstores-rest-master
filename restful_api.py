@@ -1,3 +1,6 @@
+'''
+Realise with MongoDB == 5.0.2, pymongo == 3.12.0, flask == 1.1.2, flask-restful == 0.3.9
+'''
 import datetime
 import math
 from pymongo import MongoClient
