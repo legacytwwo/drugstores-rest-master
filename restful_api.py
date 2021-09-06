@@ -1,5 +1,6 @@
 '''
 Realise with MongoDB == 5.0.2, pymongo == 3.12.0, flask == 1.1.2, flask-restful == 0.3.9
+Postman v8.12.1 was used to test the api
 '''
 import datetime
 import math
